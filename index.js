@@ -7,6 +7,17 @@ h1.style.fontWeight = "bold";
 h1.style.color = "white";
 h1.style.paddingLeft = "20px";
 
+
+
+
+
+
+
+
+
+
+
+
 h1.style.backgroundColor = "black"; // Set background color to black
 h1.style.color = "white"; // Set text color to white
 h1.style.textAlign = "left"; // Center align the text
